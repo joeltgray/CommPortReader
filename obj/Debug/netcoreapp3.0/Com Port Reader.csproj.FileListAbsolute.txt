@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\Graycode\CommPortReader\obj\Debug\netcoreapp3.0\Com Port Reader.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Graycode\CommPortReader\obj\Debug\netcoreapp3.0\Com Port Reader.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Graycode\CommPortReader\obj\Debug\netcoreapp3.0\Com Port Reader.AssemblyInfo.cs
+C:\Users\Admin\Documents\Graycode\CommPortReader\obj\Debug\netcoreapp3.0\Com Port Reader.csproj.CoreCompileInputs.cache
